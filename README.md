@@ -2,12 +2,12 @@
 Este repositório contém o projeto ProjetoTesteVendas, uma aplicação desenvolvida em PHP 7.4.30. Abaixo, você encontrará as instruções necessárias para clonar, configurar e executar o projeto em seu ambiente local.
 
 ## Pré-requisitos
-PHP: versão 7.4.30
-Composer: para gerenciar as dependências do PHP
-MySQL ou outro banco de dados compatível
+1. PHP:  preferencialmente a versão 7.4.30.
+2. Composer: para gerenciar as dependências do PHP.
+3. MySQL ou outro banco de dados compatível.
 
 ## Nota sobre a Versão do PHP
-Este projeto requer a versão PHP 7.4.30. Caso você esteja usando uma versão diferente e encontre problemas, siga estas instruções para reverter para a versão 7.4.30.
+Este projeto foi criado na versão PHP 7.4.30. Caso você esteja usando uma versão diferente e encontre problemas, siga estas instruções para reverter para a versão 7.4.30.
 
 Alterar a Versão do PHP no Ambiente Local
 Linux (com o gerenciador de pacotes apt):
