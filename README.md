@@ -69,7 +69,7 @@ Verifique a versão do PHP com:
 ```bash
   php artisan migrate
 ```
-## 6. Pode ser necessario criar o arquivo server.php na rais do projeto
+## 6. Pode ser necessario criar o arquivo server.php caso não exista na rais do projeto
   O conteúdo do arquivo deve ser o seguinte:
 ```bash
 <?php
